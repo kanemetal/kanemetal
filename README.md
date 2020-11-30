@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
 <br>
----
 <br>
 
 ### Connect with me on LinkedIn:
@@ -13,7 +12,6 @@
 [<img align="left" alt="JoshKPreston | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
----
 <br>
 
 ### Languages and Tools:
@@ -37,7 +35,6 @@
 
 
 <br>
----
 <br>
 
 
