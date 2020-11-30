@@ -35,13 +35,14 @@
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ---
 
 <br />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -49,7 +50,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
 [![Josh's github stats](https://github-readme-stats.vercel.app/api?username=JoshKPreston)](https://github.com/JoshKPreston/github-readme-stats)
 
