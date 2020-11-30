@@ -1,16 +1,16 @@
 ### Hi there, I'm Josh 👋
 
-- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with the Lowell brothers 
-- 🌱 I’m currently learning Vue3
+- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) and [Brig](https://github.com/briglowell) Lowell
+- 🌱 I’m currently learning Vue 3
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
 ---
 
-### Connect with me:
+### Connect with me on LinkedIn:
 
 [<img align="left" alt="JoshKPreston | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+---
 
 ### Languages and Tools:
 
