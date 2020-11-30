@@ -8,6 +8,9 @@
 
 ---
 
+<br />
+<br />
+
 ### Connect with me on LinkedIn:
 
 [<img align="left" alt="JoshKPreston | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -38,6 +41,9 @@
 <br />
 
 ---
+
+<br />
+<br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
