@@ -4,13 +4,17 @@
 - 🌱 I’m currently learning Vue 3
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
+<br>
 ---
+<br>
 
 ### Connect with me on LinkedIn:
 
 [<img align="left" alt="JoshKPreston | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
 ---
+<br>
 
 ### Languages and Tools:
 
@@ -31,10 +35,10 @@
 <img align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
+<br>
 ---
+<br>
 
 
 <details>
