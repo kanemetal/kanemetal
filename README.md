@@ -4,9 +4,9 @@
 - 🌱 Learning Vue 3, soon to jump into some C#
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
-<br />
-
 ---
+
+<br />
 
 ### Connect with me on LinkedIn:
 
