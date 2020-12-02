@@ -52,6 +52,12 @@
 
 <br />
 
+<summary>GitHub Stats</summary>
+
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=JoshKPreston)](https://github.com/JoshKPreston/github-readme-stats)
+
+[linkedin]: https://linkedin.com/in/joshkpreston/
+
 <details>
   <summary>Recent GitHub Activity</summary>
   
@@ -59,12 +65,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>GitHub Stats</summary>
-
-[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=JoshKPreston)](https://github.com/JoshKPreston/github-readme-stats)
-
-</details>
-
-[linkedin]: https://linkedin.com/in/joshkpreston/
