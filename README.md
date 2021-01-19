@@ -1,7 +1,7 @@
 ### Hi there, I'm Josh 👋
 
-- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) and [Brig](https://github.com/briglowell) Lowell
-- 🌱 Learning Vue 3, soon to jump into some C#
+- 🔭 Currently working on personal projects
+- 🌱 Tech in tunnel: Angular/React/Docker/Cloud-functions/pipelines
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
 ### Connect with me on LinkedIn:
