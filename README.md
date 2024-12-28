@@ -6,7 +6,7 @@
 
 ### Connect with me on LinkedIn:
 
-[<img align="left" alt="JoshKPreston | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kanemetal | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -50,7 +50,7 @@
 
 <summary>GitHub Stats</summary>
 
-[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=JoshKPreston)](https://github.com/JoshKPreston/github-readme-stats)
+[![kanemetal's github stats](https://github-readme-stats.vercel.app/api?username=kanemetal)](https://github.com/kanemetal/github-readme-stats)
 
-[linkedin]: https://linkedin.com/in/joshkpreston/
+[linkedin]: https://linkedin.com/in/kanemetal/
 
