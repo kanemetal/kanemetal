@@ -52,5 +52,5 @@
 
 [![kanemetal's github stats](https://github-readme-stats.vercel.app/api?username=kanemetal)](https://github.com/kanemetal/github-readme-stats)
 
-[linkedin]: https://linkedin.com/in/kanemetal/
+
 
