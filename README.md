@@ -1,4 +1,4 @@
-### Hi there, I'm Josh 👋
+### Hi there, I'm kanemetal 👋
 
 - 🔭 Currently working on personal projects
 - 🌱 Tech in tunnel: Angular/React/Docker/Cloud-functions/pipelines
