@@ -1,8 +1,6 @@
 ### Hi there, I'm kanemetal 👋
 
-- 🔭 Currently working on personal projects
-- 🌱 Tech in tunnel: Angular/React/Docker/Cloud-functions/pipelines
-- ⚡ Fun fact: I love to play guitar/piano/bass/drums
+- ⚡ Fun fact: I love to play guitar/piano/bass/drums and trade options!
 
 <br />
 <br />
