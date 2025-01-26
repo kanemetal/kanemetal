@@ -4,10 +4,6 @@
 - 🌱 Tech in tunnel: Angular/React/Docker/Cloud-functions/pipelines
 - ⚡ Fun fact: I love to play guitar/piano/bass/drums
 
-### Connect with me on LinkedIn:
-
-[<img align="left" alt="kanemetal | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 <br />
 
