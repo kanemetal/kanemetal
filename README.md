@@ -43,10 +43,3 @@
 <br />
 <br /> 
 <br />
-
-<summary>GitHub Stats</summary>
-
-[![kanemetal's github stats](https://github-readme-stats.vercel.app/api?username=kanemetal)](https://github.com/kanemetal/github-readme-stats)
-
-
-
